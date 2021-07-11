@@ -22,5 +22,5 @@
  <a href="https://instagram.com/miquelane_melo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
 </div>
- ![image](https://user-images.githubusercontent.com/62679691/125203490-f0c99000-e24e-11eb-9dd5-2530834e096e.png)
+ 
 
