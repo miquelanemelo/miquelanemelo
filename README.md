@@ -1,5 +1,5 @@
 ## Hello! Eu sou Miquelane Melo, 
-### style color="white" Sou estudante de analise e desenvolvimento de sistemas!!!
+###  Sou estudante de analise e desenvolvimento de sistemas!!!
 
  <div>
   <a href="https://github.com/miquelanemelo">
