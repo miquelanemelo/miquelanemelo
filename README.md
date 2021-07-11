@@ -1,4 +1,6 @@
-## Oiii! Eu sou Miquelane Melo
+## Hello! Eu sou Miquelane Melo, 
+# Sou estudante de analise e desenvolvimento de sistemas!!!
+
  <div>
   <a href="https://github.com/miquelanemelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miquelanemelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
