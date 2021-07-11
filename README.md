@@ -22,5 +22,6 @@
  <a href="https://instagram.com/miquelane_melo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
 </div>
+ ![Snake animation](https://github.com/miquelanemelo/miquelanemelo/blob/master/snake.svg)
  
 
