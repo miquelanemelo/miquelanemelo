@@ -1,8 +1,9 @@
 ## Olá! Me chamo Miquelane Melo, 
-###  Sou estudante de Analise e Desenvolvimento de Sistemas!!! 👩‍💻
-#### Busco aprender algo novo todos os dias e me tornar uma Desenvolvedora JAVA, apaixonada por desenvolvimento de Software.🏻‍🚀
-#### Amante de Ioga e da natureza 🧘🏻‍♂️🏜
-##### O sucesso é a soma de pequenos esforços repetidos dia apos dia! #######Robert Collier
+### Sou estudante de Analise e Desenvolvimento de Sistemas!!! 👩‍💻
+### Apaixonada por desenvolvimento de Software.🏻‍🚀
+### Busco aprender algo novo todos os dias e me tornar uma Desenvolvedora JAVA!
+### Amante de Ioga e da natureza 🧘🏻‍♂️🏜
+#### 📌 O sucesso é a soma de pequenos esforços repetidos dia após dia! 
  <div>
   <a href="https://github.com/miquelanemelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miquelanemelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
