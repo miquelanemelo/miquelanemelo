@@ -1,4 +1,4 @@
-## Hello! Eu sou Miquelane Melo, 
+## Olá! Eu sou Miquelane Melo, 
 ###  Sou estudante de analise e desenvolvimento de sistemas!!!
 
  <div>
