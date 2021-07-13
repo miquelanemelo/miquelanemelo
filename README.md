@@ -1,5 +1,5 @@
 ## Olá👋, Me chamo Miquelane Melo, 
-#### - Sou estudante de Analise e Desenvolvimento de Sistemas!!! 👩‍💻
+#### -Sou estudante de Analise e Desenvolvimento de Sistemas!!! 👩‍💻
 #### -Apaixonada por desenvolvimento de Software.🏻‍🚀
 #### -Busco aprender algo novo todos os dias e me tornar uma Desenvolvedora de Software!
 #### -Amante de Ioga e da natureza 🧘🏻‍♂️🏜
