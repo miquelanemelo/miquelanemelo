@@ -14,6 +14,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" height="160em" alt="miquelane-gif" src="https://media1.giphy.com/media/yyVph7ANKftIs/giphy.gif?cid=ecf05e47w5oin0z2iqkdyts2jdf05pmovqvgyc8eqd3qgrzb&rid=giphy.gif&ct=g">
 
 </div>
   
