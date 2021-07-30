@@ -1,5 +1,4 @@
-## Olá👋, Me chamo Miquelane Melo,  <img align="right" height="160em" alt="miquelane-gif" src="https://media1.giphy.com/media/yyVph7ANKftIs/giphy.gif?cid=ecf05e47w5oin0z2iqkdyts2jdf05pmovqvgyc8eqd3qgrzb&rid=giphy.gif&ct=g">
-
+## Olá👋, Me chamo Miquelane Melo,
 #### -Sou estudante de Analise e Desenvolvimento de Sistemas!!! 👩‍💻
 #### -Apaixonada por desenvolvimento de Software.🏻‍🚀
 #### -Busco aprender algo novo todos os dias e me tornar uma Desenvolvedora de Software!
