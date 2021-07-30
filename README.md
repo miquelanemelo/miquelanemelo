@@ -6,7 +6,7 @@
 ##### 📌 O sucesso é a soma de pequenos esforços repetidos dia após dia! 
  <div>
   <a href="https://github.com/miquelanemelo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miquelanemelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miquelanemelo&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miquelanemelo&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
