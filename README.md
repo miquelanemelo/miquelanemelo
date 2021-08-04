@@ -1,8 +1,6 @@
 ## Olá👋, Me chamo Miquelane Melo.
 #### -Sou estudante de Analise e Desenvolvimento de Sistemas!!! 👩‍💻
-#### -Apaixonada por desenvolvimento de Software.🏻‍🚀
-#### -Busco aprender algo novo todos os dias e me tornar uma Desenvolvedora de Software!
-#### -Amante de Ioga e da natureza 🧘🏻‍♂️🏜
+#### -Estou estudando atualmente Java e Spring Boot, pretendo me tornar uma desenvolvedora back-end.
 ##### 📌 O sucesso é a soma de pequenos esforços repetidos dia após dia! 
  <div>
   <a href="https://github.com/miquelanemelo">
