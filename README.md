@@ -1,8 +1,8 @@
 ## Olá👋, Me chamo Miquelane Melo. 
- <img align="right" height = "180" width="200" alt="mique-gatinho" src="https://media1.tenor.com/images/f46caceaa923268d9f1590d53a34b153/tenor.gif?itemid=17761219">
 #### -Sou estudante de Analise e Desenvolvimento de Sistemas!!! 👩‍💻
 #### -Estou estudando atualmente Java e Spring Boot, pretendo me tornar uma desenvolvedora back-end.
 ##### 📌 O sucesso é a soma de pequenos esforços repetidos dia após dia! 
+
  <div>
   <a href="https://github.com/miquelanemelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miquelanemelo&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
@@ -13,6 +13,7 @@
   <img align="center" alt="mique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="mique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="mique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" height = "180" width="200" alt="mique-gatinho" src="https://media1.tenor.com/images/f46caceaa923268d9f1590d53a34b153/tenor.gif?itemid=17761219">
 </div>
   
   ##
