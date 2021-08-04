@@ -1,4 +1,5 @@
-## Olá👋, Me chamo Miquelane Melo.
+## Olá👋, Me chamo Miquelane Melo. 
+ <img align="right" height = "180" width="200" alt="mique-gatinho" src="https://media1.tenor.com/images/f46caceaa923268d9f1590d53a34b153/tenor.gif?itemid=17761219">
 #### -Sou estudante de Analise e Desenvolvimento de Sistemas!!! 👩‍💻
 #### -Estou estudando atualmente Java e Spring Boot, pretendo me tornar uma desenvolvedora back-end.
 ##### 📌 O sucesso é a soma de pequenos esforços repetidos dia após dia! 
