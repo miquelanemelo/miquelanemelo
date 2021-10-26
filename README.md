@@ -5,16 +5,15 @@
 
  <div>
   <a href="https://github.com/miquelanemelo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miquelanemelo&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miquelanemelo&layout=compact&langs_count=16&theme=nightowl"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=miquelanemelo&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miquelanemelo&layout=compact&langs_count=16&theme=nightowl"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="mique-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="mique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="mique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="mique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" height = "180" width="200" alt="mique-gatinho" src="https://media1.tenor.com/images/f46caceaa923268d9f1590d53a34b153/tenor.gif?itemid=17761219">
-</div>
+  </div>
   
   ##
  
