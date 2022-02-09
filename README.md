@@ -1,6 +1,6 @@
 ## Olá👋, Me chamo Miquelane Melo. 
 #### -Sou estudante de Analise e Desenvolvimento de Sistemas!!! 👩‍💻
-#### -Estou estudando atualmente Java e SpringBoot, pretendo me tornar uma desenvolvedora Back-End.
+#### -Estou estudando atualmente Java e Spring framework, pretendo me tornar uma desenvolvedora Back-End.
 ##### 📌 O sucesso é a soma de pequenos esforços repetidos dia após dia! 
 
  <div>
