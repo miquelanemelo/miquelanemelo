@@ -1,5 +1,5 @@
 ## Olá👋
-#### -Sou desenvolvedora Backend, desenvolvo na linguagem java e com tecnologias da plataforma Spring.
+#### -Sou desenvolvedora Backend, desenvolvo soluções na linguagem java e com tecnologias da plataforma Spring.
 ##### 📌 O sucesso é a soma de pequenos esforços repetidos dia após dia! 
 
  <div>
